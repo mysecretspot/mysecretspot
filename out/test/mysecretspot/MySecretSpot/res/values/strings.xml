@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Secret Spot</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_user_input">UserInput</string>
+    <string name="select">Choose a fish type</string>
+    <string name="select2">Choose an item</string>
+
+    <string-array name="fishTypeArray">
+        <item>Smallmouth Bass</item>
+        <item>Largemouth Bass</item>
+        <item>Rainbow Trout</item>
+        <item>Carp</item>
+        <item>Flounder</item>
+        <item>Brook Trout</item>
+        <item>Spotted Bass</item>
+        <item>Redeye Bass</item>
+    </string-array>
+    <string-array name="baitTypeArray">
+        <item>Worm</item>
+        <item>Spinner</item>
+        <item>Crank</item>
+        <item>Spoon</item>
+        <item>Rooster Tail</item>
+        <item>Poppers</item>
+        <item>Live</item>
+        <item>Rubber</item>
+    </string-array>
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+
+</resources>
